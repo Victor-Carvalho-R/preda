@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "f4d2f07f69344817891217aab3f2687c"
+	name: "ChangePower"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

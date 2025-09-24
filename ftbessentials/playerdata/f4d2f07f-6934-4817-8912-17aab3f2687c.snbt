@@ -1,0 +1,11 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	name: "ChangePower"
+	last_seen: { dim: "minecraft:overworld", x: 2, y: 5, z: 25, time: 1758717239823L, xRot: 6.50023f, yRot: -178.65448f }
+	recording: 0
+	teleport_history: [ ]
+	homes: { }
+}

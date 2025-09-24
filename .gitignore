@@ -1,0 +1,10 @@
+/playerdata
+/playerdata/**
+
+/advancements
+/advancements/**
+
+/stats
+/stats/**
+
+level.dat*
