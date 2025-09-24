@@ -2,9 +2,7 @@
 	id: "f4d2f07f-6934-4817-8912-17aab3f2687c"
 	type: "player"
 	player_name: "ChangePower"
-	ranks: {
-		f4d2f07f-6934-4817-8912-17aab3f2687c: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "ChangePower"
 		"ftbteams:description": ""

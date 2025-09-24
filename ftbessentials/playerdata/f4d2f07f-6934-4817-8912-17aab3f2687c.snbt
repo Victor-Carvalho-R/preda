@@ -4,8 +4,15 @@
 	god: false
 	nick: ""
 	name: "ChangePower"
-	last_seen: { dim: "minecraft:overworld", x: 2, y: 5, z: 25, time: 1758717239823L, xRot: 6.50023f, yRot: -178.65448f }
+	last_seen: { dim: "ftbsbc:team/biasness-louvered-lilylike", x: 3, y: 0, z: -11, time: 1758731754127L, xRot: 17.09954f, yRot: -40.652588f }
 	recording: 0
-	teleport_history: [ ]
+	teleport_history: [
+		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 3, y: 2, z: -3, time: 1758719656359L, xRot: 33.20033f, yRot: 51.685932f }
+		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 1, y: 1, z: -3, time: 1758723133359L, xRot: 26.700327f, yRot: 21.888306f }
+		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 1, y: 1, z: 2, time: 1758724888557L, xRot: 10.950145f, yRot: 154.79372f }
+		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 6, y: 49, z: 56, time: 1758725718729L, xRot: 4.3506737f, yRot: -4.2070923f }
+		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 15, y: 0, z: -1, time: 1758728380727L, xRot: 35.850037f, yRot: -54.188232f }
+		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 35, y: 1, z: 4, time: 1758728416126L, xRot: 20.250086f, yRot: -156.15138f }
+	]
 	homes: { }
 }
