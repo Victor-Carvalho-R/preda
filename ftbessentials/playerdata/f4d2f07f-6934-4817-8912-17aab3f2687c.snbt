@@ -4,7 +4,7 @@
 	god: false
 	nick: ""
 	name: "ChangePower"
-	last_seen: { dim: "ftbsbc:team/biasness-louvered-lilylike", x: 10, y: 0, z: -11, time: 1759243318017L, xRot: 68.4f, yRot: 55.34964f }
+	last_seen: { dim: "ftbsbc:team/biasness-louvered-lilylike", x: 15, y: 0, z: 0, time: 1759264349737L, xRot: -2.1001577f, yRot: -38.26172f }
 	recording: 0
 	teleport_history: [
 		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 3, y: 2, z: -3, time: 1758719656359L, xRot: 33.20033f, yRot: 51.685932f }
