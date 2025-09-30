@@ -4,18 +4,19 @@
 	god: false
 	nick: ""
 	name: "Nyokhaos"
-	last_seen: { dim: "ftbsbc:team/biasness-louvered-lilylike", x: 9, y: 0, z: -8, time: 1758731754142L, xRot: 13.331138f, yRot: 115.10437f }
+	last_seen: { dim: "ftbsbc:team/biasness-louvered-lilylike", x: 13, y: 0, z: -12, time: 1759243317997L, xRot: 9.87045f, yRot: 47.116875f }
 	recording: 0
 	teleport_history: [
-		{ dim: "ftbsbc:team/warpower-footpace-deviate", x: -1, y: 0, z: 0, time: 1758719627995L, xRot: 7.658308f, yRot: -30.611572f }
-		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 1, y: 0, z: -3, time: 1758719672357L, xRot: 6.299299f, yRot: -86.54731f }
-		{ dim: "ftbsbc:team/warpower-footpace-deviate", x: 0, y: 0, z: 2, time: 1758719939441L, xRot: 9.477946f, yRot: 168.7916f }
-		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 2, y: 0, z: 5, time: 1758723144907L, xRot: 9.185633f, yRot: 179.96678f }
-		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 2, y: 0, z: -3, time: 1758724568810L, xRot: 5.492804f, yRot: 157.89978f }
-		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 1, y: 0, z: 0, time: 1758725013957L, xRot: 2.22343f, yRot: -30.126404f }
-		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 6, y: 0, z: -2, time: 1758725558580L, xRot: 39.944504f, yRot: -78.64642f }
-		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 5, y: 2, z: -4, time: 1758725818912L, xRot: 33.05191f, yRot: 130.99805f }
-		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 34, y: 0, z: 2, time: 1758728418229L, xRot: 1.7224879f, yRot: -73.37744f }
+		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 15, y: 0, z: -4, time: 1759242105581L, xRot: -4.238229f, yRot: -83.28467f }
+		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 7, y: 0, z: -5, time: 1759242628124L, xRot: -15.30378f, yRot: 31.196045f }
+		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 14, y: 0, z: -5, time: 1759242646564L, xRot: 15.846834f, yRot: -78.84226f }
+		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 14, y: 0, z: -5, time: 1759242716069L, xRot: 19.227598f, yRot: -73.317986f }
+		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 14, y: 0, z: -5, time: 1759242722721L, xRot: 14.005668f, yRot: -70.96345f }
+		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 16, y: 0, z: -7, time: 1759242817214L, xRot: 10.625102f, yRot: -16.260834f }
+		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 16, y: 0, z: -7, time: 1759242823369L, xRot: 7.123555f, yRot: -8.029251f }
+		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 16, y: 0, z: -7, time: 1759242829213L, xRot: 5.342575f, yRot: -3.8335485f }
+		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 16, y: 0, z: -6, time: 1759242835166L, xRot: 3.8333685f, yRot: -8.149495f }
+		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 16, y: 0, z: -7, time: 1759242850421L, xRot: 8.391088f, yRot: -26.562899f }
 	]
 	homes: { }
 }
