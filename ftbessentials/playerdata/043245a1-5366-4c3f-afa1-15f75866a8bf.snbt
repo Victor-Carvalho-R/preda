@@ -4,7 +4,7 @@
 	god: false
 	nick: ""
 	name: "Nyokhaos"
-	last_seen: { dim: "ftbsbc:team/biasness-louvered-lilylike", x: 13, y: 0, z: -12, time: 1759243317997L, xRot: 9.87045f, yRot: 47.116875f }
+	last_seen: { dim: "ftbsbc:team/biasness-louvered-lilylike", x: 7, y: 0, z: -8, time: 1760271935509L, xRot: 16.009537f, yRot: 60.43878f }
 	recording: 0
 	teleport_history: [
 		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 15, y: 0, z: -4, time: 1759242105581L, xRot: -4.238229f, yRot: -83.28467f }
