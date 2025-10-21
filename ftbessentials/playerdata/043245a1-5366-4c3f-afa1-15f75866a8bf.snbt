@@ -4,10 +4,9 @@
 	god: false
 	nick: ""
 	name: "Nyokhaos"
-	last_seen: { dim: "ftbsbc:team/biasness-louvered-lilylike", x: 4, y: 0, z: -9, time: 1760443443224L, xRot: 5.38351f, yRot: -63.473633f }
+	last_seen: { dim: "ftbsbc:team/biasness-louvered-lilylike", x: 10, y: 0, z: -9, time: 1761048488555L, xRot: 9.960366f, yRot: -141.16515f }
 	recording: 0
 	teleport_history: [
-		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 14, y: 0, z: -5, time: 1759242646564L, xRot: 15.846834f, yRot: -78.84226f }
 		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 14, y: 0, z: -5, time: 1759242716069L, xRot: 19.227598f, yRot: -73.317986f }
 		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 14, y: 0, z: -5, time: 1759242722721L, xRot: 14.005668f, yRot: -70.96345f }
 		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 16, y: 0, z: -7, time: 1759242817214L, xRot: 10.625102f, yRot: -16.260834f }
@@ -17,6 +16,7 @@
 		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 16, y: 0, z: -7, time: 1759242850421L, xRot: 8.391088f, yRot: -26.562899f }
 		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 12, y: 1, z: -12, time: 1760272426325L, xRot: 14.236502f, yRot: 30.14853f }
 		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 3, y: 1, z: 1, time: 1760273753872L, xRot: 7.4451427f, yRot: -129.48767f }
+		{ dim: "ftbsbc:team/biasness-louvered-lilylike", x: 15, y: 0, z: -1, time: 1761047721658L, xRot: 13.713231f, yRot: -103.725586f }
 	]
 	homes: { }
 }
